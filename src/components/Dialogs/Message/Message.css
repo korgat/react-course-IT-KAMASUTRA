@@ -1,0 +1,24 @@
+.Dialogs_messagesItems__3_YRH .me {
+	display: flex;
+}
+
+.else {
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.Dialogs_messagesItems__3_YRH .meborder {
+	color: rgb(24, 159, 221);
+	padding: 10px;
+	border: black 2px solid;
+	border-radius: 0 20px 20px 20px;
+	background-color: rgb(181, 212, 182);
+}
+
+.Dialogs_messagesItems__3_YRH .elseborder {
+	color: rgb(0, 0, 0);
+	padding: 10px;
+	border: black 2px solid;
+	border-radius: 20px 0 20px 20px;
+	background-color: white;
+}

@@ -1,0 +1,8 @@
+.title {
+	margin: 0 0 10px 0;
+}
+
+.friendsItems {
+	display: flex;
+	justify-content: space-between;
+}

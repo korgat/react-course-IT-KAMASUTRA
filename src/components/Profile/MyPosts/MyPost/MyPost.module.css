@@ -1,0 +1,9 @@
+.MyPost {
+	color: rgb(255, 0, 0);
+}
+
+.MyPost img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}

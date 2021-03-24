@@ -1,0 +1,25 @@
+.myPosts {
+	color: blue;
+	padding: 10px;
+}
+
+.InputArea {
+	margin: 0 0 15px 0;
+}
+
+.InputArea textarea {
+	width: 500px;
+	margin: 0 0 10px 0;
+	border: black 2px solid;
+}
+
+.InputArea button {
+	width: 100px;
+	border-radius: 10px;
+	line-height: 1.5;
+}
+
+.postsArea {
+	display: flex;
+	flex-direction: column-reverse;
+}

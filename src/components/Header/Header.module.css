@@ -1,0 +1,9 @@
+.header {
+	display: flex;
+	grid-area: header;
+	background-color: bisque;
+	align-items: center;
+}
+.header img {
+	width: 200px;
+}

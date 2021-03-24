@@ -1,0 +1,15 @@
+.nav {
+	grid-area: aside;
+	background-color: blueviolet;
+	font-size: 20px;
+	padding: 20px;
+	line-height: 1.5;
+}
+
+.item {
+	color: white;
+}
+
+.active {
+	color: tomato;
+}
